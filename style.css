@@ -5,6 +5,7 @@ header {
     color:aqua;
     background-color: darkgray;
     font-size: large;
+    font-family: 'DynaPuff', cursive;
 }
 
 main{
@@ -12,6 +13,7 @@ main{
     justify-content: center;
     color:blue;
     background-color: darkgray;
+    font-family: 'Permanent Marker', cursive;
 
 }
 
@@ -22,10 +24,18 @@ footer{
     color:blueviolet;
     background-color: darkgray;
     flex-direction: row-reverse;
+    font-family: 'DynaPuff', cursive;
     
 }
 img {
     display: flex;
     max-width: 100%;
     height: auto;
+    font-family: 'DynaPuff', cursive;
+}
+.fonte-01{
+    font-family: 'DynaPuff', cursive, sans-serif;
+}
+.fonte-02{
+    font-family: 'Maven Pro', sans-serif;
 }
