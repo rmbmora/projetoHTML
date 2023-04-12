@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:aqua;
+    background-color: darkgray;
+    font-size: large;
+}
+
+main{
+    display: flex;
+    color:blue;
+    background-color: darkgray;
+
+}
+
+footer{
+    display: flex;
+    
+    align-items: center;
+    color:blueviolet;
+    background-color: darkgray;
+    
+}
+img {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
