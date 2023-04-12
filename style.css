@@ -9,6 +9,7 @@ header {
 
 main{
     display: flex;
+    justify-content: center;
     color:blue;
     background-color: darkgray;
 
@@ -16,10 +17,11 @@ main{
 
 footer{
     display: flex;
-    
+    justify-content: space-around;
     align-items: center;
     color:blueviolet;
     background-color: darkgray;
+    flex-direction: row-reverse;
     
 }
 img {
